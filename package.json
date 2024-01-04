@@ -1,0 +1,21 @@
+{
+  "name": "unique_logo",
+  "version": "1.0.0",
+  "description": "backend application",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "jest",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "node.js"
+  ],
+  "author": "omri",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^29.7.0"
+  }
+}
