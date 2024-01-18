@@ -16,6 +16,7 @@
   "author": "omri",
   "license": "ISC",
   "dependencies": {
+    "inquirer": "^8.2.4",
     "jest": "^29.7.0"
   }
 }
